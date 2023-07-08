@@ -4,7 +4,7 @@
     "slug": "AlanAllign",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/2.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",

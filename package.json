@@ -11,8 +11,11 @@
   "dependencies": {
     "expo": "~48.0.18",
     "expo-status-bar": "~1.4.4",
+    "expo-updates": "~0.16.4",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-blink-view": "0.0.6",
+    "react-native-smooth-blink-view": "^1.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
